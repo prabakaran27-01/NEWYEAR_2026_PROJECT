@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your OnSpace project
 
 ## How can I edit this code?
@@ -59,3 +60,6 @@ This project is built with:
 ## How can I deploy this project?
 
 Simply open [OnSpace]() and click on Share -> Publish.
+=======
+# NEWYEAR_2026_PROJECT
+>>>>>>> fcdcecfa921946eea1262e3e577e990721a55f24
